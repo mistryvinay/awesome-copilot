@@ -1,0 +1,25 @@
+{
+  "name": "vinay-default",
+  "description": "Vinay's default Copilot setup: senior engineering, review, TypeScript, frontend UX, testing, and UI UX Pro guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vinay"
+  },
+  "repository": "https://github.com/mistryvinay/awesome-copilot",
+  "license": "MIT",
+  "keywords": [
+    "vinay",
+    "engineering",
+    "typescript",
+    "frontend",
+    "testing",
+    "ui-ux"
+  ],
+  "agents": [
+    "./agents/vinay-reviewer.md",
+    "./agents/vinay-senior-engineer.md"
+  ],
+  "skills": [
+    "./skills/vinay-ui-ux-pro/"
+  ]
+}

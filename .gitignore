@@ -2,6 +2,8 @@ node_modules
 *.orig
 Copilot-Processing.md
 reports/
+__pycache__/
+*.py[cod]
 
 # macOS system files
 .DS_Store

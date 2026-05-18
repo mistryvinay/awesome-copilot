@@ -689,6 +689,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "vinay-default",
+      "source": "vinay-default",
+      "description": "Vinay's default Copilot setup: senior engineering, review, TypeScript, frontend UX, testing, and UI UX Pro guidance.",
+      "version": "1.0.0"
+    },
+    {
       "name": "whatidid",
       "description": "Turn your Copilot sessions into proof of impact — research-grounded HTML reports with effort estimation, skills analysis, and ROI metrics from local session logs.",
       "version": "1.0.0",
